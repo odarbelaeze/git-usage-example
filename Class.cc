@@ -1,8 +1,14 @@
 #include "Class.h"
 
 Class::Class()
+ : name("Default class name")
 {
+}
 
+
+Class::Class(std::string _name)
+ : name(_name)
+{
 }
 
 

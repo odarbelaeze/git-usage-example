@@ -7,6 +7,7 @@ class Class
 {
 public:
     Class();
+    Class(std::string);
     ~Class();
 
     std::string getName() const;
