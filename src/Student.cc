@@ -1,6 +1,7 @@
 #include "Student.h"
 
 Student::Student()
+ : name("Jonh Doe")
 {
 
 }
