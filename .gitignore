@@ -1,0 +1,7 @@
+# Ignoring compiled object files
+*.o
+*.so
+*.a
+
+# Ignore backup files
+*~*
